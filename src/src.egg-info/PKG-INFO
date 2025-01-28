@@ -1,0 +1,18 @@
+Metadata-Version: 2.2
+Name: src
+Version: 0.0.1
+Summary: A basic Python package to develop a web app that recommends films
+Author: Ayush Kumar
+Author-email: ayushkr0535@gmail.com
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+Film_recommender
