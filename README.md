@@ -1,6 +1,6 @@
 # Movie Recommender System
 
-*Film Counselor* is film recommending web application. By entering or searching for the name of the film by the user in the search bar, it analyzes the input and suggests similar films using a recommendation algorithm. The project showcases skills in web development, data handling, and recommendation systems. 
+*Film Counselor* is a film recommending web application. By entering or searching for the name of the film by the user in the search bar, it analyzes the input and suggests similar films using a recommendation algorithm. The project showcases skills in web development, data handling, and recommendation systems. 
 Our NLP-powered Web App delivers tailored suggestions based on cast and genres of the searched film.
 
 Find and Watch, from the ocean of great films!
